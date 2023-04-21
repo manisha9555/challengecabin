@@ -1,0 +1,26 @@
+12691836.0		Mumbai, India
+12294193.0		Mexico City, Distrito Federal, Mexico
+10444527.0		Manila, Philippines
+10381222.0		Moscow, Russia
+56271872.0		the
+3340398.0 		they
+2820265.0 		their
+2509917.0 		them
+1961200.0 		there
+133159.0  		company
+78039.8  		complete
+60384.9  		companion
+52050.3  		completely
+44817.7  		comply
+431052.0  		Al Maḩallah al Kubrá, Egypt
+420195.0  		Al Manşūrah, Egypt
+290802.0  		Al Mubarraz, Saudi Arabia
+258132.0  		Al Mukallā, Yemen
+227150.0  		Al Minyā, Egypt
+128297.0  		Al Manāqil, Sudan
+99357.0  		Al Maţarīyah, Egypt
+3730206.0  		Melbourne, Victoria, Australia
+3268513.0  		Montréal, Quebec, Canada
+3255944.0  		Madrid, Spain
+6197.0  		automobile
+4250.0  		automatic
